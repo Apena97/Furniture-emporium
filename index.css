@@ -1,0 +1,49 @@
+article {
+  border: 5px red dashed;
+  border-width: 10px;
+  border-radius: 15%;
+  padding: 1px blue;
+  padding-left: 1px;
+  padding-right: 1px;
+  padding-bottom: 1px;
+  margin: 30px orange spaced;
+  margin-bottom: 20px;
+  background-color: magenta;
+}
+
+p {
+  font-size: 15px;
+  font-family: "Arial", sans-serif;
+  color: purple;
+}
+.price {
+  font-weight: bold;
+  color: green;
+  margin-left: 150px;
+  margin-left: 150px;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-size: 35px;
+}
+
+h1 {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  color: blue;
+  text-align: center;
+}
+.add-to-cart {
+  color: green;
+  font-weight: bold;
+  background-color: lightgreen;
+  border: none;
+  padding: 30px 20px;
+  cursor: pointer;
+  text-align: center;
+  font-family: "Arial Black", Gadget, sans-serif;
+  font-size: medium;
+}
+h2 {
+  font-family: "Georgia", serif;
+  color: darkred;
+  text-align: left;
+}
